@@ -20,7 +20,6 @@
 * A aplicación estará accesible, por exemplo,dende http://localhost/appsncp/app
 
 ##Licenza
-*Este programa é software libre. Pode redistribuilo e/ou modificalo baixo os termos da Licenza Pública Xeral de GNU segundo foi publicada pola Free Software Foundation, ben na versión 3 desta licenza o ben(segundo a súa elección) de calquera versión posterior. *
-*Este programa distribúese coa esperanza de que sexa útil, pero SEN GARANTÍA ALGUNHA, incluíndo a garantía MERCANTIL implícita ou sen garantir a CONVENIENCIA PARA UN PROPÓSITO PARTICULAR. Pode consultar a Licenza Pública Xeral de GNU para máis información.*
+*Este programa é software libre. Pode redistribuilo e/ou modificalo baixo os termos da Licenza Pública Xeral de GNU segundo foi publicada pola Free Software Foundation, ben na versión 3 desta licenza ou ben(segundo a súa elección) de calquera versión posterior.Este programa distribúese coa esperanza de que sexa útil, pero SEN GARANTÍA ALGUNHA, incluíndo a garantía MERCANTIL implícita ou sen garantir a CONVENIENCIA PARA UN PROPÓSITO PARTICULAR. Pode consultar a Licenza Pública Xeral de GNU para máis información.
 *Debería(ver arquivo COPYING) ter unha copia da Licenza Pública Xeral xunto con este programa. Se non foi así, escriba á Free Software Foundation, Inc., en 675 Mass Ave, Cambridge, MA 02139, EEUU.*
 

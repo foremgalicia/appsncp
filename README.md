@@ -2,8 +2,8 @@
 *Actualiza os rexistros da base de datos do Sistema Nacional*
 *de Cualificacións Profesionais dende unha sinxela interface web.*
 ##Acerca de
-Esta aplicación foi programada durante a realización do Proxecto Desire www.proxectodesire.eu .
-Esta aplicación está financiada pola Xunta de Galicia e o Fondo Social Europeo
+*Esta aplicación foi programada durante a realización do Proxecto Desire www.proxectodesire.eu .*
+*Esta aplicación está financiada pola Xunta de Galicia e o Fondo Social Europeo.*
 ##Requerimentos mínimos
 * wwwserver : Nginx 1.x // Apache2 
 * PHP 5.3

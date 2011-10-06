@@ -3,5 +3,10 @@
 *de Cualificaciones Profesionales desde un sencillo entorno web.*
 ##Requerimientos mínimos
 * wwwserver : Nginx 1.x // Apache2 
-* PHP 5.3 o superior
-* Permisos de propietario en el directorio web
+* PHP 5.3
+* MySQL 5.0
+* Permisos de propietario en el directorio web que servirá la app
+* Git 1.5
+##Instalación
+* Clonar repo github `git clone git://github.com/foremgalicia/appsncp
+* Crear base de datos para la aplicacion. `CREATE DATABASE appsncp`

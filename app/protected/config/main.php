@@ -58,10 +58,10 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=desire3test',
+			'connectionString' => 'mysql:host=localhost;dbname=appsncp',
 			'emulatePrepare' => true,
-			'username' => 'mydesirete',
-			'password' => 'v3o6Zmuf',
+			'username' => 'appsncp',
+			'password' => 'appsncp',
 			'charset' => 'utf8',
 		),
 		
@@ -93,8 +93,8 @@ return array(
 		'adminEmail'=>'webmaster@example.com',
 		// database params used to generate the database dump
 		'db_host' => 'localhost',
-		'db_user' => 'mydesirete',
-		'db_pass' => 'v3o6Zmuf', 
-		'db_name' => 'desire3test',
+		'db_user' => 'appsncp',
+		'db_pass' => 'appsncp', 
+		'db_name' => 'appsncp',
 	),
 );

@@ -1,14 +1,22 @@
 #Aplicación SNCP Proxecto Desire3 - Forem Galicia
-*Actualiza los registros de la base de de datos del Sistema Nacional*
-*de Cualificaciones Profesionales desde un sencillo entorno web.*
-##Requerimientos mínimos
+*Actualiza os rexistros da base de datos do Sistema Nacional*
+*de Cualificacións Profesionais dende unha sinxela interface web.*
+##Acerca de
+Esta aplicación foi programada durante a realización do Proxecto Desire www.proxectodesire.eu .
+Esta aplicación está financiada pola Xunta de Galicia e o Fondo Social Europeo
+##Requerimentos mínimos
 * wwwserver : Nginx 1.x // Apache2 
 * PHP 5.3
 * MySQL 5.0
-* Permisos de propietario en el directorio web que servirá la app
+* Permisos de propietario no directorio web que servirá a app
 * Git 1.5
 
 ##Instalación
-* Clonar repo github `git clone git://github.com/foremgalicia/appsncp`
-* Crear base de datos para la aplicacion.SQL code: `CREATE DATABASE appsncp`
-* Crear usuario con privilegios.SQL code: `GRANT ALL PRIVILEGES ON appsncp.* to appsncp@'localhost' IDENTIFIED BY 'appsncp' WITH GRANT OPTION;`
+* Clonar repositorio github `git clone git://github.com/foremgalicia/appsncp`
+* Crear a base de datos para a aplicacion.SQL code: `CREATE DATABASE appsncp`
+* Crear usuario con privilexios.SQL code: `GRANT ALL PRIVILEGES ON appsncp.* to appsncp@'localhost' IDENTIFIED BY 'appsncp' WITH GRANT OPTION;`
+* Crear estructura e insertar os registros da BBDD dende o arquivo **sncp.sql**.SQL code `mysql -u appsncp -p appsncp < sncp.sql`
+* Otorgar permisos de escritura ao usuario que executa el servicio www sobre o cartafol da app. Unix/Linux code: `chown -R www-data appsncp/`
+* A aplicación estará accesible, por exemplo,dende http://localhost/appsncp/app
+
+##

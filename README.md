@@ -15,7 +15,7 @@
 * Clonar repositorio github `git clone git://github.com/foremgalicia/appsncp`
 * Crear a base de datos para a aplicacion.SQL code: `CREATE DATABASE appsncp`
 * Crear usuario con privilexios.SQL code: `GRANT ALL PRIVILEGES ON appsncp.* to appsncp@'localhost' IDENTIFIED BY 'appsncp' WITH GRANT OPTION;`
-* Crear estructura e insertar os registros da BBDD dende o arquivo **sncp.sql**.SQL code `mysql -u appsncp -p appsncp < sncp.sql`
+* Crear estructura e insertar os rexistros da BBDD dende o arquivo **sncp.sql**.SQL code `mysql -u appsncp -p appsncp < sncp.sql`
 * Otorgar permisos de escritura ao usuario que executa el servicio www sobre o cartafol da app. Unix/Linux code: `chown -R www-data appsncp/`
 * A aplicación estará accesible, por exemplo,dende http://localhost/appsncp/app
 
